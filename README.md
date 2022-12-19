@@ -6,7 +6,7 @@ This is a simple calendar application that allows the user to save events for ea
 ## Installation
 To install, you must simply use the link provided below to open the application in your preferred browser.
 
-LINK GOES HERE
+Application link: https://madelinelowes.github.io/madelines-scheduling-app/
 
 ## Usage
 The user can type their daily tasks and/or reminders into the corresponding hour's textbox. Without refreshing the page, the user can write their schedule and move things around to see what their day will look like. In order for the inputted data to be saved, the corresponding hour's save button must be clicked. This information is stored locally on the user's browser to ensure that if the user exits or refreshes the page, the information won't disappear. If the user changes their mind and wants to change a task/reminder, they can delete what has been written and click the save button again.
